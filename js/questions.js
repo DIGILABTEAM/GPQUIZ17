@@ -19,7 +19,7 @@ var data =
 				answer: 4
 			},
 			{
-				question: "Asbestos exposure is typically associated with each of the following EXCEPT",
+				question: "Asbestos exposure is typically associated with",
 				option1: "Pleural effusions",
 				option2: "Mesothelioma of the pleura",
 				option3: "Laryngeal cancer",
@@ -31,11 +31,11 @@ var data =
 				option1: "90%",
 				option2: "40%",
 				option3: "20%",
-				option4: "5%",
+				option4: "10%",
 				answer: 4
 			},
 			{
-				question: "30.	The volume of air that can be exhaled after normal exhalation is the",
+				question: "The volume of air that can be exhaled after normal exhalation is the",
 				option1: "Tidal volume",
 				option2: "Residual volume",
 				option3: "Inspiratory reserve volume",
